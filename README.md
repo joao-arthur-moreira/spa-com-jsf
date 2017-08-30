@@ -1,1 +1,0 @@
-Projeto relacionado ao post do artigo - https://fernandofranzini.wordpress.com/2017/08/17/aplicaticos-spa-com-jsf/
